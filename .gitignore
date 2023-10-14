@@ -1,0 +1,13 @@
+# RStudio
+.Rhistory
+.RData
+
+# zip
+*.zip
+
+# csv
+*.csv
+
+# Shapefiles and GeoJSON
+BR_Municipios_2022
+geojson_municipios
